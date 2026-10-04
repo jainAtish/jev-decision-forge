@@ -1,0 +1,4 @@
+jev
+pydantic
+python-dotenv
+requests
